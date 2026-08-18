@@ -1,30 +1,21 @@
-# python-AI-automation-data-analysis-tool
+# Python Data Analytics Projects
 
+Welcome to my **Python Data Analytics Projects** repository, where I showcase my practical experience in **Python, data analysis, data cleaning, and data visualization**.
 
-Corporate Data Analyzer is a Python GUI application that simplifies CSV and Excel data analysis. Generate GroupBy reports, apply multiple aggregation functions, visualize insights with Bar, Line, Pie, and Column charts, and export reports to Excel, CSV, and PNG—all through an easy-to-use Tkinter interface.
+These projects demonstrate how I use Python to transform raw datasets into meaningful insights through **Exploratory Data Analysis (EDA), data preprocessing, statistical analysis, and visualization**.
 
-📊 Corporate Data Analyzer – Report & Chart Builder
+### 🛠️ Tools & Technologies
 
-A Python desktop application that enables users to analyze CSV and Excel datasets without writing code. The application provides an intuitive graphical interface to generate summarized reports, visualize data with interactive charts, and export results for business reporting.
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
 
-🚀 Features
-📂 Import CSV and Excel files
-📑 Display dataset information (rows, columns, headers)
-🔍 Automatically detect text and numeric columns
-📊 Generate reports using:
-Sum
-Average
-Mean
-Maximum
-Minimum
-Count
-Median
-📈 Visualize data with:
-Bar Chart
-Column Chart
-Line Chart
-Pie Chart
-💾 Export reports to Excel (.xlsx) or CSV (.csv)
-🖼 Export charts as PNG images
-🖥 User-friendly GUI built with Tkinter
-📉 Preview reports in a table before exporting
+The goal of this repository is to demonstrate my ability to **analyze real-world data, identify patterns and trends, and communicate insights using Python**.
+
+I am continuously building and improving my Python and data analytics skills through hands-on projects.
